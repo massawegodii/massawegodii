@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Godfrey</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=massawegodii" alt="massawegodii" /></a> </p>
+<p align="left"> <a href="https://github.com/massawegodii"><img src="https://github.com/massawegodii" /></a> </p>
 
 - 🔭 I’m currently working at **DIT**
 
