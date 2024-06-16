@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Godfrey</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 
-<p align="left"> <a href="https://github.com/massawegodii"><img src="https://github.com/massawegodii" /></a> </p>
-
 - 🔭 I’m currently working at **DIT**
 
 <h3 align="left">Connect with me:</h3>
