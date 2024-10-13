@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Godfrey</h1>
-<h3 align="center">Fullstack Developer | Passionate About Building Scalable Solutions</h3>
+<h3 align="center">Fullstack Developer</h3>
 
 🔭 Currently working at **GR CO LTD**
 
