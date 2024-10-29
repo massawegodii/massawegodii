@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Godfrey</h1>
 <h3 align="center">Fullstack Developer</h3>
 
-🔭 Currently working at **GR CO LTD**
-
 💻 I specialize in designing and building modern web and mobile applications, leveraging a broad stack of technologies to create robust and scalable systems.
 
 ---
