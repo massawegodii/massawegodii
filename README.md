@@ -4,6 +4,7 @@
 💻 I specialize in designing and building modern web and mobile applications, leveraging a broad stack of technologies to create robust and scalable systems.
 
 ---
+<p>Learning AI and Machine Learning</p>
 
 <h3>Languages and Tools:</h3>
 <p align="left">
